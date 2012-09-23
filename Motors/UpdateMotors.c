@@ -5,7 +5,7 @@ A task to constantly update the motors.  This will
 also monitor PTC temperatures to make sure we don't
 overheat the motors.
 ****************************************************/
-#include "PTCmonitor.c"
+//#include "PTCmonitor.c"
 
 //Function Prototype
 int linearDrive(int cmd);
